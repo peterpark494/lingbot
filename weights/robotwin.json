@@ -1,0 +1,87 @@
+{
+  "directory": "checkpoints/global_step_50000/hf_ckpt",
+  "revision": "0451855729ec904f970600e0aec8b84661423afe",
+  "files": [
+    {
+      "size": 707,
+      "sha256": null,
+      "name": "added_tokens.json"
+    },
+    {
+      "size": 5292,
+      "sha256": null,
+      "name": "chat_template.jinja"
+    },
+    {
+      "size": 31,
+      "sha256": null,
+      "name": "config.json"
+    },
+    {
+      "size": 4947507248,
+      "sha256": "514801684e0f23aaa4bb64a4fd81e420b97e094331499852d5f2cc567750b360",
+      "name": "model-00001-of-00006.safetensors"
+    },
+    {
+      "size": 4944315304,
+      "sha256": "e7b00cf59b21c2f5e9f76f7687ba423c6fe24bfa9fa8e313ef346bb081e73c9f",
+      "name": "model-00002-of-00006.safetensors"
+    },
+    {
+      "size": 4944315360,
+      "sha256": "ace74f6d5214059b6387b5728c570a452d51b5950dd9904fe29607dbfa41447b",
+      "name": "model-00003-of-00006.safetensors"
+    },
+    {
+      "size": 4992858968,
+      "sha256": "1f1cb6b4099e264b202eae0244f3730e1ced910c0b34355fff2a719993d0cbe5",
+      "name": "model-00004-of-00006.safetensors"
+    },
+    {
+      "size": 4963062048,
+      "sha256": "1316d6fe054253650dc65bae416ae6cf9afa283aad82a9712b02b0dd7029394b",
+      "name": "model-00005-of-00006.safetensors"
+    },
+    {
+      "size": 711830844,
+      "sha256": "0e1dfc6a23c43f3c387276e2389799867dfa90dc9727bb8e21250c73bfe7dd23",
+      "name": "model-00006-of-00006.safetensors"
+    },
+    {
+      "size": 207389,
+      "sha256": null,
+      "name": "model.safetensors.index.json"
+    },
+    {
+      "size": 782,
+      "sha256": null,
+      "name": "preprocessor_config.json"
+    },
+    {
+      "size": 613,
+      "sha256": null,
+      "name": "special_tokens_map.json"
+    },
+    {
+      "size": 11422654,
+      "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+      "name": "tokenizer.json"
+    },
+    {
+      "size": 5472,
+      "sha256": null,
+      "name": "tokenizer_config.json"
+    },
+    {
+      "size": 817,
+      "sha256": null,
+      "name": "video_preprocessor_config.json"
+    },
+    {
+      "size": 2776833,
+      "sha256": null,
+      "name": "vocab.json"
+    }
+  ],
+  "repo": "robbyant/lingbot-vla-v2-6b-robotwin"
+}
