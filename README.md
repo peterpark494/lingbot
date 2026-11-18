@@ -9,7 +9,7 @@
 
 参赛资料记录的评测模型为 **20k + 2k**。每种环境均为 50 项任务 × 100 回合，FP32 推理，动作 chunk 50。Random 结果含 1,000 个已验证回合的复用。总数由逐任务表复核，原始逐回合日志与对应 checkpoint 未随本仓库发布。
 
-- [演示视频发布页](https://github.com/peterpark494/lingbot/releases)
+- [演示视频](media/demo.mp4)
 - [参赛记录与对照实验](docs/competition.md)
 - [50 项任务明细](results/tasks.csv)
 - [训练 Notebook](training/colab_full10.ipynb) · [单卡训练说明](docs/training.md)
